@@ -121,7 +121,16 @@ c站一直有这样的说法，程序等于算法加数据结构，还有老哥�
 | upper    | 将字符串的字符都转变为大写字符              |
 | lower    | 将字符串的字符都转变为小写字符              |
 
-现在我们可以对字符串进行一些简单的操作了，比如我想要把这一段文字中的所有chinese的第一个字母C进行大写，那么我们应该怎么做，在python中我们是怎么做的，在matlab中的思想是一样的。
+现在我们可以对字符串进行一些简单的操作了，比如我想要把这一段文字中的所有**china**的第一个字母C进行大写，那么我们应该怎么做，在python中我们是怎么做的，在matlab中的思想是一样的。
 
 首先我找了一段例子：
+
+As everyone knows, Chinese vast territory and abundant resources, **china**, not aeverywhere is the land of gold place, ha ha ha, this I must say. We must correctly treat Chinese, however, it is precisely because of **china** is a developing country, so, **china** is one is now the world knows the awakening lion. Very beautiful Chinese, Fujian in the East **china** Sea water is very blue, very clear.**china** is a will bring you more surprises, let the world cheered for the country.
+
+在python中我们通常会
+
+```python
+```
+
+
 
